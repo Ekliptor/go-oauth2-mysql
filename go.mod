@@ -1,9 +1,10 @@
-module github.com/imrenagi/go-oauth2-mysql
+module github.com/Ekliptor/go-oauth2-mysql
 
 go 1.12
 
 require (
 	github.com/go-sql-driver/mysql v1.4.0
+	github.com/imrenagi/go-oauth2-mysql v1.1.0
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/json-iterator/go v1.1.6
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
